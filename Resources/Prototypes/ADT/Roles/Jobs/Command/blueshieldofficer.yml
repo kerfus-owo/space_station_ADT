@@ -44,6 +44,7 @@
     implants: [ MindShieldImplant ]
   - !type:AddComponentSpecial
       components:
+        - type: BlueShield
         - type: CantShoot
           popup: combo-cantshoot
           whitelist:
@@ -113,9 +114,6 @@
                   damage:
                     types:
                       Blunt: 15
-                - !type:ComboStunEffect
-                  stunTime: 2
-                  dropItems: false
                 - !type:ComboAudioEffect
                   sound:
                     collection: GenericHit
