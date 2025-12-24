@@ -4,7 +4,7 @@ meta:
   engineVersion: 265.0.0
   forkId: ""
   forkVersion: ""
-  time: 12/13/2025 11:16:42
+  time: 12/22/2025 20:42:10
   entityCount: 39583
 maps:
 - 1
@@ -26536,13 +26536,15 @@ entities:
           16,-4:
             0: 61166
           16,-3:
-            1: 61152
+            0: 224
+            1: 60928
           16,0:
             0: 29183
           17,-4:
             0: 65535
           17,-3:
-            1: 64240
+            0: 240
+            1: 64000
           17,-5:
             0: 65535
           17,-2:
@@ -26554,36 +26556,39 @@ entities:
           18,-4:
             0: 65535
           18,-3:
-            1: 62704
+            0: 56604
           18,-2:
-            1: 17
+            0: 52445
           18,-1:
-            1: 4015
+            1: 19841
           18,-5:
             0: 65535
           18,0:
             1: 21831
           19,-4:
-            0: 16383
+            0: 32767
           19,-3:
-            1: 65400
-          19,-1:
-            1: 55215
+            0: 30503
+          19,-2:
+            0: 54775
           19,-5:
             0: 65535
-          19,-2:
-            1: 32324
+          19,-1:
+            1: 58880
+            0: 12
           19,0:
-            1: 14289
+            1: 14327
           20,-4:
             0: 1023
             1: 32768
           20,-3:
             1: 65319
           20,-2:
-            1: 20352
+            0: 13104
+            1: 2176
           20,-1:
-            1: 47791
+            0: 3
+            1: 47752
           16,-9:
             0: 65262
           16,-7:
@@ -26764,9 +26769,13 @@ entities:
           20,0:
             1: 36543
           21,-3:
-            1: 14306
+            1: 49122
           21,-2:
-            1: 19
+            1: 64251
+          21,-1:
+            1: 65226
+          21,0:
+            1: 43756
           22,-3:
             1: 249
           23,-3:
@@ -27362,7 +27371,7 @@ entities:
           20,1:
             1: 65484
           21,1:
-            1: 48755
+            1: 48891
           21,2:
             0: 63280
             1: 140
@@ -31929,7 +31938,7 @@ entities:
       pos: 41.5,-17.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -187480.27
+      secondsUntilStateChange: -187492.94
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -31955,7 +31964,7 @@ entities:
       pos: 19.5,-2.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -318727.44
+      secondsUntilStateChange: -318740.1
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -31966,7 +31975,7 @@ entities:
       pos: 35.5,-25.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -237426.88
+      secondsUntilStateChange: -237439.55
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -32193,7 +32202,7 @@ entities:
       pos: 49.5,22.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -365217.5
+      secondsUntilStateChange: -365230.16
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -32276,7 +32285,7 @@ entities:
       pos: 42.5,4.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -54331.332
+      secondsUntilStateChange: -54344
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -32356,7 +32365,7 @@ entities:
       pos: 8.5,12.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -245840.78
+      secondsUntilStateChange: -245853.45
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -32946,7 +32955,7 @@ entities:
       pos: -38.5,46.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -138389.16
+      secondsUntilStateChange: -138401.83
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -33267,7 +33276,7 @@ entities:
       access:
       - - Salvage
     - type: Door
-      secondsUntilStateChange: -63201.863
+      secondsUntilStateChange: -63214.53
       changeAirtight: False
       state: Opening
     - type: DeviceLinkSource
@@ -33318,7 +33327,7 @@ entities:
       pos: 57.5,-46.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -184809.19
+      secondsUntilStateChange: -184821.86
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -33788,7 +33797,7 @@ entities:
       pos: -12.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -188535.92
+      secondsUntilStateChange: -188548.6
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -34327,7 +34336,7 @@ entities:
       pos: -18.5,55.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -171385.31
+      secondsUntilStateChange: -171397.98
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -34494,7 +34503,7 @@ entities:
       pos: 15.5,-43.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -280608.6
+      secondsUntilStateChange: -280621.25
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -132392,7 +132401,7 @@ entities:
       pos: 3.5,-8.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -100689.83
+      secondsUntilStateChange: -100702.49
       state: Closing
     - type: DeviceNetwork
       deviceLists:
@@ -132724,7 +132733,7 @@ entities:
       pos: 1.5,28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -173650.64
+      secondsUntilStateChange: -173663.31
       state: Closing
     - type: Firelock
       emergencyCloseCooldown: 28912.4282324
@@ -231923,7 +231932,7 @@ entities:
       pos: -112.5,30.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -78489.18
+      secondsUntilStateChange: -78501.84
       state: Opening
   - uid: 29008
     components:
@@ -231932,7 +231941,7 @@ entities:
       pos: -110.5,45.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -108194.41
+      secondsUntilStateChange: -108207.07
       state: Opening
   - uid: 29009
     components:
@@ -275679,7 +275688,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -60821.38
+      secondsUntilStateChange: -60834.047
       state: Opening
     - type: Airlock
       autoClose: False

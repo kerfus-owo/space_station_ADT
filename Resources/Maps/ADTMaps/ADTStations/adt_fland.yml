@@ -4,7 +4,7 @@ meta:
   engineVersion: 265.0.0
   forkId: ""
   forkVersion: ""
-  time: 12/20/2025 10:28:24
+  time: 12/22/2025 20:40:55
   entityCount: 36468
 maps:
 - 1
@@ -15864,18 +15864,22 @@ entities:
           19,14:
             0: 255
           20,15:
-            3: 8946
+            3: 8754
+            0: 34816
           19,15:
             3: 240
           20,16:
-            3: 4082
+            3: 9010
+            0: 136
           21,13:
             0: 61440
           21,14:
             0: 31
             3: 3072
           21,15:
-            3: 240
+            0: 65280
+          21,16:
+            0: 65535
           21,12:
             0: 34952
           21,11:
@@ -15888,24 +15892,29 @@ entities:
             0: 52367
             3: 256
           22,15:
-            3: 16
-            0: 52428
+            0: 56780
           22,11:
             0: 65282
           22,16:
-            0: 52428
-            3: 272
+            0: 56543
           23,15:
             0: 4593
           23,16:
             0: 7953
           19,16:
             3: 4080
-          21,16:
-            3: 4080
+          20,17:
+            3: 8738
+          20,18:
+            3: 226
+          21,17:
+            0: 255
+          21,18:
+            3: 240
           22,17:
-            0: 36044
+            0: 36061
           22,18:
+            3: 16
             0: 2252
           23,17:
             0: 819
@@ -20565,7 +20574,7 @@ entities:
       pos: 98.5,49.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -31006.23
+      secondsUntilStateChange: -31063.896
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -21971,7 +21980,7 @@ entities:
       pos: -14.5,54.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -15995.994
+      secondsUntilStateChange: -16053.661
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -115241,7 +115250,7 @@ entities:
     - type: Openable
       opened: True
     - type: PressurizedSolution
-      sprayFizzinessThresholdRoll: 0.4119502
+      sprayFizzinessThresholdRoll: 0.14594303
     - type: NameModifier
       baseName: Особый Запас Дядюшки Гита
     - type: ContainerContainer
@@ -119175,7 +119184,7 @@ entities:
       pos: 56.5,25.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -46063.75
+      secondsUntilStateChange: -46121.418
       state: Closing
   - uid: 17724
     components:
