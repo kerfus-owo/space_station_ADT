@@ -104,10 +104,10 @@
       - id: ADTModsuitModDrill
 
 - type: entity
-  id: ADTCrateNecropolisSuperSynthesizer
+  id: ADTCrateNecropolisFleshysizer
   parent: ADTCrateNecropolis
-  suffix: SuperSynthesizer
+  suffix: Fleshysizer
   components:
   - type: StorageFill
     contents:
-      - id: SuperSynthesizerInstrument
+      - id: ADTFleshysizerInstrument

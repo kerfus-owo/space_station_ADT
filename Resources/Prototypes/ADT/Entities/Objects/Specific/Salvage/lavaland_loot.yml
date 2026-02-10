@@ -48,3 +48,19 @@
 #        Slash: -1.5
 #        Piercing: -1.5
 #        Blunt: -1.5
+
+- type: entity
+  parent: BaseKeyedInstrument
+  id: ADTFleshysizerInstrument
+  name: fleshysizer
+  description: supersynth but red.
+  components:
+  - type: Instrument
+    allowPercussion: true
+    allowProgramChange: true
+    respectMidiLimits: false
+  - type: Sprite
+    sprite: ADT/Objects/Fun/Instruments/fleshysizer.rsi
+    layers:
+      - state: icon
+      - state: icon_tongue

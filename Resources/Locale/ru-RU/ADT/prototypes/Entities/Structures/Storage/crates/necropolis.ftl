@@ -45,6 +45,6 @@ ent-ADTCrateNecropolisModsuitMods = { ent-ADTCrateNecropolis }
     .desc = { ent-ADTCrateNecropolis.desc }
     .suffix = Модули МОД, Лаваленд
 
-ent-ADTCrateNecropolisSuperSynthesizer = { ent-ADTCrateNecropolis }
+ent-ADTCrateNecropolisFleshysizer = { ent-ADTCrateNecropolis }
     .desc = { ent-ADTCrateNecropolis.desc }
-    .suffix = Суперсинтезатор, Лаваленд
+    .suffix = Плотизатор, Лаваленд
