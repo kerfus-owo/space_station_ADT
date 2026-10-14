@@ -557,7 +557,6 @@
   variants: 1
   placementVariants:
   - 1.0
-  speedModifier: 0.45
   itemDrop: FloorTileItemSepia
 
 - type: tile
