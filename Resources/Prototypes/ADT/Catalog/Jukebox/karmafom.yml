@@ -1,0 +1,101 @@
+- type: jukebox
+  id: BERSERKForces
+  name: BERSERK - Forces
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/BERSERK - Forces.ogg"
+
+- type: jukebox
+  id: CMHxLIDASTIKER
+  name: CMH x LIDA - СТИКЕР
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/CMH x LIDA - СТИКЕР.ogg"
+
+- type: jukebox
+  id: S3RLxLIDAMyGirlfriendisaRaver
+  name: S3RL x LIDA - My Girlfriend is a Raver
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/S3RL x LIDA - My Girlfriend is a Raver.ogg"
+
+- type: jukebox
+  id: SusumuHirasawaParade
+  name: Susumu Hirasawa - Parade
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Susumu Hirasawa - Parade.ogg"
+
+- type: jukebox
+  id: GurrenLagannLiberaMeFromHell
+  name: Gurren Lagann - Libera Me From Hell
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Gurren Lagann - Libera Me From Hell.ogg"
+
+- type: jukebox
+  id: KenshiYonezuIRISOUT
+  name: Kenshi Yonezu - IRIS OUT
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Kenshi Yonezu - IRIS OUT.ogg"
+
+- type: jukebox
+  id: KenshiYonezuKICKBACK
+  name: Kenshi Yonezu - KICKBACK
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Kenshi Yonezu - KICKBACK.ogg"
+
+- type: jukebox
+  id: PANCHUSHOTVPN
+  name: ПАНЦУШОТ - VPN
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/ПАНЦУШОТ - VPN.ogg"
+
+- type: jukebox
+  id: PANCHUSHOTPIDORAS
+  name: ПАНЦУШОТ - История о том, как я убил пидораса
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/ПАНЦУШОТ - История о том, как я.ogg"
+
+- type: jukebox
+  id: PANCHUSHOTBORIS
+  name: ПАНЦУШОТ - Куколд Борис
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/ПАНЦУШОТ - Куколд Борис.ogg"
+
+- type: jukebox
+  id: PANCHUSHOTFEMINIZM
+  name: ПАНЦУШОТ - Новый феминизм
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/ПАНЦУШОТ - Новый феминизм.ogg"
+
+- type: jukebox
+  id: PANCHUSHOTFAMILY
+  name: ПАНЦУШОТ - Ради Семьи
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/ПАНЦУШОТ - Ради Семьи.ogg"
+
+- type: jukebox
+  id: SEREGAPIRATZOMBI
+  name: Серега пират - зомби апокалипсис
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Серега пират - зомби апокалипсис.ogg"
+
+- type: jukebox
+  id: SEREGAPIRATSCREAM
+  name: Серега пират - И я кричу, остановите катку
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Серега пират - И я кричу, остановите катку.ogg"
+
+- type: jukebox
+  id: SEREGAPIRATMUTANT
+  name: Серега пират - Мутанты из канализации
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Серега пират - Мутанты из канализации.ogg"
+
+- type: jukebox
+  id: SEREGAPIRATTILT
+  name: Серега пират - ТИЛЬТ
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Серега пират - ТИЛЬТ.ogg"
+
+- type: jukebox
+  id: HorrorSkunxItsmeItsVerity
+  name: Horror Skunx - It's me, It's Verity
+  path:
+    path: "/Audio/ADT/Jukebox/karmafom/Horror Skunx - It's me, It's Verity.ogg"

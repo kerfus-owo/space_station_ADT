@@ -556,3 +556,20 @@
     tracksCollection: ADTVokaloid
   - type: StaticPrice
     price: 50
+
+- type: entity
+  parent: ADTMusicDiskStandard
+  id: ADTMusicDiskKarmafom
+  name: music disk (karmafom)
+  description: karmafom
+  components:
+  - type: Sprite
+    sprite: ADT/Objects/Misc/music_disk.rsi
+    layers:
+    - state: disk_base
+      color: "#24d6b0"
+    - state: disk_label_music
+  - type: JukeboxDisk
+    tracksCollection: ADTKarmafom
+  - type: StaticPrice
+    price: 50
