@@ -899,3 +899,47 @@
       intervalSeconds: 300
       minimumEntitiesSpawned: 1
       maximumEntitiesSpawned: 1
+
+- type: entity
+  parent: MarkerBase
+  id: ADTSoundGenBeach
+  name: Пляж
+  description: "Вау! Звукогенератор!"
+  suffix: "Звукогенератор"
+  components:
+  - type: Sprite
+    layers:
+      - state: green
+      - sprite: ADT/Objects/Misc/soundgen.rsi
+        state: icon
+  - type: AmbientSound
+    volume: 2
+    range: 15
+    sound:
+      path: /Audio/ADT/Jukebox/karmafom/beach.ogg
+
+- type: entity
+  parent: ClothingBeltBase
+  id: ADTClothingBeltInflatableCirclePink
+  name: розовый надувной круг
+  description: Надувной круг чтобы не потануть.
+  components:
+  - type: Sprite
+    sprite: ADT/Clothing/Uniforms/inflatable_circle_pink.rsi
+    state: icon
+  - type: Clothing
+    sprite: ADT/Clothing/Uniforms/inflatable_circle_pink.rsi
+    quickEquip: true
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ADTClothingHandsArmbands
+  name: нарукавники для плаванья
+  description: Ты всё ещё не умеешь плавать?...
+  components:
+  - type: Sprite
+    sprite: ADT/Clothing/Uniforms/armbands.rsi
+    state: icon
+  - type: Clothing
+    sprite: ADT/Clothing/Uniforms/armbands.rsi
+    slots: [gloves]
